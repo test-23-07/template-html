@@ -13,7 +13,7 @@
         "name": "Testname hier",
         "feedback": "Feedbacktext hier",
         "urls": ["Hier eine URL für die Hilfestellung"],
-        "file": "Dateiname hier",
+        "file": "Dateiname hier.",
         "javascript": "JavaScript-Code hier",
         "output": "Erwartete Ausgabe hier (z.B. true)",
         "comparison": "Vergleichstyp (z.B. 'exact')",
