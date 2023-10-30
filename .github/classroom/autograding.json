@@ -6,7 +6,7 @@
       {
         "specs": {
           "title": "Spezifikationstitel hier",
-          "list": ["Hier", "die", "Unteraufgaben"],
+          "list": ["Hier ", "die", "Unteraufgaben"],
           "code_example": "Hier ein Code Beispiel"
 
         },
@@ -17,7 +17,7 @@
         "javascript": "JavaScript-Code hier.",
         "output": "Erwartete Ausgabe hier (z.B. true)",
         "comparison": "Vergleichstyp (z.B. 'exact')",
-        "points": "Punkte hier"
+        "points": "100"
       }
     ]
   }
